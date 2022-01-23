@@ -1,0 +1,1 @@
+[17-Jun-2020 06:57:01 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home1/webegypt/public_html/supernaturalteam/app/Http/Kernel.php on line 7

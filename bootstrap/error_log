@@ -1,0 +1,36 @@
+[27-Oct-2019 15:52:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home1/webegypt/public_html/supernaturalteam/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/bootstrap/app.php on line 14
+[27-Oct-2019 15:52:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home1/webegypt/public_html/supernaturalteam/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/bootstrap/app.php on line 14
+[07-Nov-2019 16:57:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home1/webegypt/public_html/supernaturalteam/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/bootstrap/app.php on line 14
+[07-Nov-2019 16:57:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home1/webegypt/public_html/supernaturalteam/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/bootstrap/app.php on line 14
+[08-Nov-2019 16:50:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home1/webegypt/public_html/supernaturalteam/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/bootstrap/app.php on line 14
+[08-Nov-2019 16:50:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home1/webegypt/public_html/supernaturalteam/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/bootstrap/app.php on line 14
+[09-Nov-2019 16:52:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home1/webegypt/public_html/supernaturalteam/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/bootstrap/app.php on line 14
+[09-Nov-2019 16:52:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home1/webegypt/public_html/supernaturalteam/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/bootstrap/app.php on line 14
+[17-Dec-2019 22:59:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home1/webegypt/public_html/supernaturalteam/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/bootstrap/app.php on line 14

@@ -1,0 +1,16 @@
+[01-Feb-2020 07:37:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Request' not found in /home1/webegypt/public_html/supernaturalteam/routes/web_old.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/routes/web_old.php on line 15
+[06-Feb-2020 04:47:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home1/webegypt/public_html/supernaturalteam/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/routes/api.php on line 16
+[17-Jun-2020 10:06:14 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home1/webegypt/public_html/supernaturalteam/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/routes/console.php on line 16
+[22-Jul-2020 11:26:17 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home1/webegypt/public_html/supernaturalteam/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/routes/channels.php on line 14

@@ -1,0 +1,1 @@
+[24-Apr-2020 23:39:18 America/Boise] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home1/webegypt/public_html/supernaturalteam/database/seeds/DatabaseSeeder.php on line 5

@@ -1,0 +1,174 @@
+@charset "UTF-8";
+/**
+
+* Template Name: CairoFocus 
+* Version: 1.0
+* Author: WebEgy
+* Email: info@web-egy.com
+* Developed By: WebEgy
+* Last Update: 10th Jan, 2021
+* Author URL: www.web-egy.com
+
+**/
+
+@font-face {
+	font-family: Almarai;
+	src: url('../fonts/Almarai-Regular.ttf');
+} 
+@font-face {
+	font-family: Almarait-bold;
+	src: url('../fonts/Almarai-Bold.ttf');
+} 
+@font-face {
+	font-family: Almarait-Extra;
+	src: url('../fonts/Almarai-ExtraBold.ttf');
+} 
+:root {
+	 --theme-general-font: 'Almarait', sans-serif !important;  
+}
+body{
+    /*font-family: 'Almarait', sans-serif;*/
+    font-family: var(--theme-general-font);
+    color: #fff;
+}
+a:hover{color:var(--theme-primary-color) !important}
+.navbar-expand-lg .navbar-nav .nav-link {font-size: 18px !important}
+
+.down-line::before{left: unset;}
+.post-meta > a {
+	margin-left: 10px;
+	padding-left: 10px;
+	border-left: 1px solid #e1e1e1;
+	margin-right: unset;
+	padding-right: unset;
+	border-right: unset;
+}
+.post-meta > a:last-child {border-left: none;margin: 0;padding: 0}
+.post-meta a i{float: right;margin-left: 5px;}
+.testimonial-slider .owl-nav button.owl-prev {margin-left: 10px;}
+.testimonial-slider .owl-nav {left: 30px;right:unset}
+.widget_recent_property li img{margin-left: 15px;margin-right: unset;}
+
+.ls-layer {text-align: right !important;}
+.ls-wrapper h1{font-size: 35px !important}
+.socila-footer{float: right;}
+#contactForm .radio{float: right;margin: 0 10px;}
+
+a{color:#0c9;}
+.form-control:focus{box-shadow: 0 0 0 .1rem #00cc993d;}
+
+div.summary .product-offer-item::before {margin-right: 0 !important;}
+
+.navbar-expand-lg .navbar-nav .nav-link {font-weight: 400 !important;}
+.product-offer-item small{font-size:15px;font-weight: bold;}
+.project-single .ml-auto {margin-right: auto !important;margin-left: unset !important;}
+.ls-wrapper h6{left: 49.4688px !important;}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .btn,
+.navbar-expand-lg .navbar-nav .nav-link{font-family: 'Almarait-bold', sans-serif;color: #fff;}
+
+.property-grid-3 .data-on{left: unset !important;right: 15px !important;}
+.loader.clock{right: 45%;}
+.bg-dark {background-color: #1a1a1a !important;}
+.books-header,.books-header-cat{font-size: 40px !important;}
+.about-book-header::before{top: 17px;left: unset;right: 127px;}
+.contact-data li {font-size: 25px;}
+.about-btn a:first-child:hover{color: #212529 !important;}
+.services-body{height: 170px;overflow: hidden;}
+.structure-header{padding: 15px 60px;}
+.navbar .mr-auto {margin-right: auto !important;margin-left: unset !important;}
+.text-primary {color: var(--theme-primary-color) !important;}
+.btn-primary {color: var(--theme-white-color) !important;background-color: var(--theme-primary-color) !important;border-color: #0c9;}
+.about .socila-footer li i{color: #fff;}
+.about .socila-footer li i:hover{color: var(--theme-primary-color) !important;}
+.lang a:first-child{border-left:1px solid #0c9;border-right:unset;}
+
+/*single post*/
+.single-blog .flaticon-calendar{float: right}
+/*end single post*/
+
+.tv-dropdown .dropdown-toggle:first-child{margin-right:20px;margin-left:unset;}
+.tv-dropdown .dropdown-toggle::after {
+    transform:unset !important;
+    content:"";
+    left: -10px;
+    right: unset;
+    color: #0c9;
+    font-size: 19px;
+    top:10px;
+}
+
+/*start section books*/
+.single-book-btn a, .books-items-btn a{margin-left: 20px;}
+.single-book-btn .btn-light, .books-items-btn .btn-light{line-height: 24px !important;}
+.single-book-items{line-height: 30px;}
+.books-items-vots{text-align: left;}
+/*end section books*/
+
+/*start news section*/
+.news-title {font-family: var(--theme-general-font) !important;}
+/*end news section*/
+
+/*start section works*/
+.work .dropdown-toggle::after{right: -20px !important;margin-top: 3px !important;}
+.form-filter .bootstrap-select > .dropdown-toggle{width: auto;}
+.form-filter .dropdown-toggle::after{right: -10px;}
+/*end section works*/
+
+.form-filter{padding: 0 15px 10px;}
+.form-filter .bootstrap-select > .dropdown-toggle{font-family: var(--theme-general-font);}
+.form-filter .filter-option-inner-inner{font-family: var(--theme-general-font);font-size: 16px;text-align: center;font-weight: 600 !important;}
+.form-filter .dropdown-item.active, .dropdown-item:active{background-color: #0c9 !important;}
+.form-filter .show > .btn-light.dropdown-toggle,
+.form-filter .btn-light:not(:disabled):not(.disabled):active{color: #fff !important;background-color: transparent !important;border-color: transparent !important;}
+.form-filter .dropdown-item:focus, .dropdown-item:hover {padding-right: 35px;}
+.form-filter .fa-search{margin-right: 10px;margin-left: unset;}
+
+.blogs .form-filter .form-control {border-left: 1px solid #707070 !important;border-right:unset !important;}
+.dropdown-item {font-size: 16px;font-weight: 600 !important;}
+
+.owl-carousel .owl-nav button.owl-next{position: absolute;top: 40%;right: -30px;font-size: 60px;direction: ltr;}
+.owl-carousel .owl-nav button.owl-prev{position: absolute;top: 40%;left: -30px;font-size: 60px;direction: ltr;}
+
+
+a.text-primary:focus, a.text-primary:hover {color: #0c9 !important;}
+
+.post-cat{border-right: 3px solid #0c9;padding: 0 7px;border-left:unset;}
+
+/*Start Mobile Screen*/
+@media screen and (max-width: 991px){
+    .loader.clock {right: 30% !important;}
+    .about-content h2{padding: 0px 0 15px !important;}
+    .work .dropdown-toggle::after {right: -19px !important;top: 18px;}
+    .tv-section-header,.contact-heade,.contact-header{width:100% !important;}
+    .books-items-btn a{margin-left: 20px !important;padding:5px 0;margin-right:unset;}
+    .structure-header{padding: 15px 50px;font-size:30px;}
+    .form-filter .dropdown-toggle::after{right: -8px !important;}
+    .work .form-filter .dropdown-toggle::after {right: -15px !important;}
+    .form-filter-select{border-left: unset !important;}
+    .form-filter-search{margin-top: 20px !important;}
+    .form-filter-search i{font-size: 16px !important;}
+    .form-filter-search input:placeholder{font-size:20px !important;}
+    .form-filter-cat .dropdown-toggle::after {right: -5px !important;}
+    .single-book-btn a, .books-items-btn a{font-size: 14px;margin-left: 0;}
+    .single-book-btn .btn-light, .books-items-btn .btn-light{width: auto;margin-left: 0;}
+    .news .news-header, .services-home .services-header{width: 100% !important;}
+    .services-home .services-body{font-size: 13px !important;}
+    .services-home .services-body-header {font-size: 23px !important;}
+    .books-items-content {width: unset !important;}
+    .books-header, .books-header-cat {font-size: 25px !important;}
+    .form-filter .form-control {border-left: unset !important;border-right:unset !important;}
+    .contact-info li {font-size: 16px;}
+    .books h4{font-size: 17px !important;}
+    .contact-data span, .contact-data a{font-size:16px;}
+    .contact-data li i{font-size:20px;}
+    .contact-data li {margin-bottom: 10px !important;}
+    .contact-socila li i{width: 20px;font-size: 20px;}
+    .contact-home h2{margin-bottom: 10px !important;}
+    .form-simple {margin-top: 0px !important;}
+    
+    
+    
+}    
+/*End Mobile Screen*/
+

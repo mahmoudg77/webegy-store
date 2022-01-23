@@ -1,0 +1,52 @@
+[17-Dec-2019 23:57:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/webegypt/public_html/supernaturalteam/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/config/mail.php on line 19
+[18-Dec-2019 15:41:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/webegypt/public_html/supernaturalteam/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/config/mail.php on line 19
+[19-Dec-2019 09:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/webegypt/public_html/supernaturalteam/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/config/cache.php on line 18
+[20-Dec-2019 11:06:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/webegypt/public_html/supernaturalteam/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/config/app.php on line 15
+[21-Dec-2019 08:47:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/webegypt/public_html/supernaturalteam/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/config/app.php on line 15
+[21-Dec-2019 20:12:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/webegypt/public_html/supernaturalteam/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/config/services.php on line 18
+[22-Dec-2019 03:45:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/webegypt/public_html/supernaturalteam/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/config/services.php on line 18
+[22-Dec-2019 10:38:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/webegypt/public_html/supernaturalteam/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/config/database.php on line 16
+[28-Dec-2019 12:20:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/webegypt/public_html/supernaturalteam/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/config/broadcasting.php on line 18
+[28-Dec-2019 19:41:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/webegypt/public_html/supernaturalteam/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/config/broadcasting.php on line 18
+[01-Jan-2020 07:03:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home1/webegypt/public_html/supernaturalteam/config/geoip.php:56
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/config/geoip.php on line 56
+[06-Jan-2020 11:29:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/webegypt/public_html/supernaturalteam/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/config/filesystems.php on line 16
+[24-Apr-2020 12:03:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/webegypt/public_html/supernaturalteam/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/webegypt/public_html/supernaturalteam/config/queue.php on line 18
